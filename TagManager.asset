@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Dunes
+  - water
+  - terrain
+  - lava
+  - YCube
+  - Bounce Pad
+  - Ocoin
+  - Fcoin
+  - Dcoin
+  - Pcoin
+  - SnCoin
+  - SwCoin
+  - Ccoin
+  - MCoin
+  - LCoin
+  - snowball
+  - GCube
+  - Dune Spawn Location
+  - Cutscene Zone
+  - Swamp Zone
+  - Pcheck
+  - Swcheck
+  - Ccheck
+  - Sncheck
+  - Ocheck
+  - Bcheck
+  - Lcheck
+  - Dcheck
+  - Fcheckk
+  - EndPad1
+  - EndPad2
+  - EndPad3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
